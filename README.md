@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sobha Supriya Rachuri</h1>
-<h3 align="center">An Enthusiastic and Aspiring Data Analyst from India</h3>
+<h3 align="center">An Enthusiastic and Aspiring Data Analyst Seeking Opportunities as Intern </h3>
 <img align="right" alt="Ignitive" width="400"
 src="https://th.bing.com/th/id/OIP.ptwmoIuxhMF2vUINFJgptQHaHa?pid=ImgDet&rs=1">
 
